@@ -1,38 +1,41 @@
-Nepre-I
+**Nepre-I**
 Scoring Function based on Neighborhood Preference Statistics based on Interfacial residues
-Usage
+**Usage**
 The running folder should contain:
 bio_Nepre_I.py (Main program)
 {cutoff}.npy (Energy matrix)
 fb_grid.txt (Fibonacci grid points parameter file)
+
 In this program two cutoff values should be provided, one cutoff value for neighborhood residue cutoff value (cutoff) and another cutoff value for interfacial residue cutoff value (in_cutoff). Interfacial residue distance threshold (in_cutoff) value from 4 to 6 and neighborhood residue distance threshold value (cutoff) from 4 to 10 (recommended value is 6). We provided three energy matrix files (in_cutoff.npy) in_cutoff options 4, 5 and 6 angstroms in all cases neighborhood cutoff value are 6 angstroms.
+
 You can see help information by typing:
 Nepre@liulab:~$ python bio_Nepre_I.py -h
-usage: bio_Nepre_I.py [-h] [-s | -m] [-o] path  cutoff  fb_grid in_cutoff
+**usage: **  bio_Nepre_I.py [-h] [-s | -m] [-o] path  cutoff  fb_grid in_cutoff
 Nepre-I Scoring Function Created by CSRC
 positional arguments:
 path		PDB file path of folder path
 cutoff		neighborhood cutoff parameter for Nepre-I
 fb_grid	Fibonacci grid point file
 in_cutoff	interfacial residue cutoff parameter for Nepre-I
-
-optional arguments:
+**
+optional arguments:**
 	-h, --help	show this help message and exit
 	-s, --single	calculate single PDB
 	-m, --multi	calculate a series of PDB
 	-o, --output	save the results as a text file in running folder
-For single protein potential energy calculate, choose a cutoff (6 angstrom eg.) and turn on -s flag:
-Print results to the terminal
+	
+**For single protein potential energy calculate, choose a cutoff (6 angstrom eg.) and turn on -s flag:**
+**Print results to the terminal**
 Nepre@liulab:~$ python bio_Nepre_I.py  -s  ../Example/PDB/native.pdb 6 fibonacci-400-grid-points.txt  6
 The calculation results are shown as:
 Nepre Potential Energy
 Using Cutoff: 6
 Examples/PDB/native_rcsb_xleap.pdb [2.0297539]
-Save the results in a text file (Same folder with Nepre.py with name ìlatest_results.txtî)
+**Save the results in a text file (Same folder with Nepre.py with name ‚Äúlatest_results.txt‚Äù)**
 Nepre@liulab:~$ python bio_Nepre_I.py  -s  -o  ../Example/PDB/native.pdb 6 fibonacci-400-grid-points.txt  6
-
-For multi-object calculation, you can use -m flag:
-Print results to the terminal
+**
+**For multi-object calculation, you can use -m flag:****
+**Print results to the terminal**
 Nepre@liulab:~$ python bio_Nepre_I.py -m ./Example/PDB 6   fibonacci-400-grid-points.txt  6
 The results are:
 The Nepre Potential Energy
@@ -103,5 +106,5 @@ complex_8.pdb      2.635408600275485
 native_rcsb_xleap.pdb      2.0297539006232377
 complex_50.pdb      2.2194196356808367
 
-Save the results in a text file (Same folder with Nepre.py with name ìlatest_results.txtî)
+**Save the results in a text file (Same folder with Nepre.py with name ‚Äúlatest_results.txt‚Äù)**
 Nepre@liulab:~$ python bio_Nepre_I.py -m -o ./Example/PDB 6   fibonacci-400-grid-points.txt  6
