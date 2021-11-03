@@ -102,3 +102,4 @@ complex_50.pdb      -155.02878812529258
 
 Save the results in a text file (Same folder with Nepre.py with name “latest_results.txt”)
 Nepre@liulab:~$ python bio_Nepre_F.py  -m  -o  ./Example/PDB 6   fibonacci-400-grid-points.txt
+
