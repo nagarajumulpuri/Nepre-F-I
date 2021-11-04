@@ -106,8 +106,8 @@ complex_7.pdb      3.780462118452803 \
 complex_79.pdb      8.215875210497009 \
 complex_61.pdb      4.886785541917205 \
 complex_76.pdb      2.9447019798595644 \
-complex_69.pdb      2.019392537388217 \
-complex_67.pdb      2.576434284502398 \
+complex_69.pdb 	    2.019392537388217 \
+complex_67.pdb 		     2.576434284502398 \
 complex_5.pdb      2.6867642860352134 \
 complex_51.pdb      2.633940581396434 \
 complex_34.pdb      1.132389611540802 \
@@ -115,7 +115,7 @@ complex_97.pdb      2.6953558018950727 \
 complex_65.pdb      -2.0080791617394285 \
 complex_8.pdb      2.635408600275485 \
 native_rcsb_xleap.pdb      2.0297539006232377 \
-complex_50.pdb      2.2194196356808367 
+complex_50.pdb      2.2194196356808367 \
 
 #### Save the results in a text file (Same folder with Nepre.py with name “latest_results.txt”) ####
 Nepre@liulab:~$ python bio_Nepre_I.py -m -o ./Example/PDB 6   fibonacci-400-grid-points.txt  6
