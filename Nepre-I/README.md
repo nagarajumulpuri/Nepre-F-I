@@ -2,9 +2,9 @@
 Scoring Function based on Neighborhood Preference Statistics based on Interfacial residues. 
 
 **Usage**  \
-The running folder should contain:
-bio_Nepre_I.py (Main program)
-{cutoff}.npy (Energy matrix)
+The running folder should contain:\
+bio_Nepre_I.py (Main program) \
+{cutoff}.npy (Energy matrix) \
 fb_grid.txt (Fibonacci grid points parameter file)
 
 In this program two cutoff values shoul be provided, one cutoff value for neighborhood residue cutoff \
