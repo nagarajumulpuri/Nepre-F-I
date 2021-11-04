@@ -14,10 +14,13 @@ Interfacial residue distance threshold (in_cutoff) value from **4** to **6** and
 options **4, 5,** and **6** angstroms in all cases neighborhood cutoff value are **6** angstroms.
 
 You can see help information by typing:\
-Nepre@liulab:~$python bio_Nepre_I.py -h \
-usage: bio_Nepre_I.py  [-h] [-s|-m] [-o]   path cutoff  fb_grid  in_cutoff \
+Nepre@liulab:~$python bio_Nepre_I.py -h 
+
+usage: \
+bio_Nepre_I.py  [-h] [-s|-m] [-o]   path cutoff  fb_grid  in_cutoff 
+
 Nepre-I Scoring Function Created by CSRC \
-positional arguments: \
-  path PDB file path of folder path \
-  cutoff  neighborhood cutoff parameter for Nepre-I \
-  fb_grid  Fibonacci grid point file \
+positional arguments: 
+  * path   PDB file path of folder path 
+  * cutoff  neighborhood cutoff parameter for Nepre-I 
+  * fb_grid  Fibonacci grid point file 
