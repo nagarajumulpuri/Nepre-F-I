@@ -21,6 +21,6 @@ bio_Nepre_I.py  [-h] [-s|-m] [-o]   path cutoff  fb_grid  in_cutoff
 
 Nepre-I Scoring Function Created by CSRC \
 positional arguments: 
-  * path   PDB file path of folder path 
-  * cutoff  neighborhood cutoff parameter for Nepre-I 
-  * fb_grid  Fibonacci grid point file 
+  * path		PDB file path of folder path 
+  * cutoff		neighborhood cutoff parameter for Nepre-I 
+  * fb_grid		Fibonacci grid point file 
