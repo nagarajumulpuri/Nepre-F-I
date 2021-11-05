@@ -14,6 +14,8 @@ Interfacial residue distance threshold (in_cutoff) value from **4** to **6** and
 options **4, 5,** and **6** angstroms in all cases neighborhood cutoff value are **6** angstroms.
 
 You can see help information by typing:\
+![image](https://user-images.githubusercontent.com/92762541/140528886-4bdebeac-3d7b-4181-a7e0-b9309a0f4e5b.png)
+
 Nepre@liulab:~$python bio_Nepre_I.py -h 
 
 usage: \
