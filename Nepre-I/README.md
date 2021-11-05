@@ -31,76 +31,12 @@ For **multi-object** calculation, you can use **-m** flag:
 ![image](https://user-images.githubusercontent.com/92762541/140534786-998de96a-1103-46ee-aef7-c4d8b08d1d08.png)
 
 The results are:
-The Nepre Potential Energy
-Using Cutoff: 6 \
-complex_52.pdb      0.27934136604604937 \
-complex_84.pdb      1.8803398177673987 \
-complex_63.pdb      5.742218874905891 \
-complex_93.pdb      7.670267668752434 \
-complex_1.pdb      6.241319865719331 \
-complex_89.pdb      -0.8186528883958015 \
-complex_71.pdb      0.6496764412344058 \
-complex_58.pdb      -2.267308879299487 \
-complex_39.pdb      5.5758194614664776 \
-complex_44.pdb      3.1516186555669496 \
-complex_88.pdb      3.5200277838108156 \
-complex_87.pdb      1.2497834709575772 \
-complex_95.pdb      2.320245849947439 \
-complex_75.pdb      3.6924455881211395 \
-complex_38.pdb      3.7544312892695335 \
-complex_72.pdb      0.6010132860002849 \
-complex_99.pdb      1.6180529208542567 \
-complex_98.pdb      2.0761606192423954 \
-complex_78.pdb      2.5191994495276866 \
-complex_9.pdb      3.3723615033395746 \
-complex_77.pdb      1.7191631029661258 \
-complex_3.pdb      6.1443260630890615 \
-complex_53.pdb      2.186657890001272 \
-complex_57.pdb      4.520796080525149 \
-complex_6.pdb      6.764836214650217 \
-complex_94.pdb      5.561301257761129 \
-complex_59.pdb      1.856940618169138 \
-complex_41.pdb      1.2290474054597225 \
-complex_4.pdb      0.7827895058438374 \
-complex_66.pdb      -2.9349699020536146 \
-complex_42.pdb      7.294727064248496 \
-complex_70.pdb      3.771035050346875 \
-complex_55.pdb      5.107847639438728 \
-complex_90.pdb      2.2481485110209927 \
-complex_43.pdb      5.830793219454253 \
-complex_92.pdb      11.161823578777422 \
-complex_83.pdb      -3.818236031435426 \
-complex_60.pdb      1.059792248210734 \
-complex_37.pdb      4.178878814372677 \
-complex_31.pdb      5.81094743073412 \
-complex_32.pdb      -0.026419902355114405 \
-complex_49.pdb      -0.6257575580187003 \
-complex_30.pdb      -2.7208265609045297 \
-complex_86.pdb      3.2450516926676425 \
-complex_47.pdb      4.02105082352348 \
-complex_33.pdb      7.252366782248512 \
-complex_96.pdb      3.396854847864797 \
-complex_91.pdb      5.4591617741689715 \
-complex_64.pdb      2.2903115922677277 \
-complex_46.pdb      1.989280419842381 \
-complex_85.pdb      6.606965627435031 \
-complex_7.pdb      3.780462118452803 \
-complex_79.pdb      8.215875210497009 \
-complex_61.pdb      4.886785541917205 \
-complex_76.pdb      2.9447019798595644 \
-complex_69.pdb 	    2.019392537388217 \
-complex_67.pdb 		     2.576434284502398 \
-complex_5.pdb      2.6867642860352134 \
-complex_51.pdb      2.633940581396434 \
-complex_34.pdb      1.132389611540802 \
-complex_97.pdb      2.6953558018950727 \
-complex_65.pdb      -2.0080791617394285 \
-complex_8.pdb      2.635408600275485 \
-native_rcsb_xleap.pdb      2.0297539006232377 \
-complex_50.pdb      2.2194196356808367
+![image](https://user-images.githubusercontent.com/92762541/140535772-8ead68bb-0147-4e91-bf50-d95a4417192c.png)
+![image](https://user-images.githubusercontent.com/92762541/140535902-34b1fbc4-e94c-4bb7-b39e-6d42037c319f.png)
+![image](https://user-images.githubusercontent.com/92762541/140536056-3940c592-08b3-423e-af29-82f4a4f3c036.png)
 
 #### Save the results in a text file (Same folder with Nepre.py with name “latest_results.txt”) ####
-Nepre@liulab:~$ python bio_Nepre_I.py -m -o ./Example/PDB 6   fibonacci-400-grid-points.txt  6
+![image](https://user-images.githubusercontent.com/92762541/140536484-891f8d3b-2950-42a6-87c2-8c8c4b72d37a.png)
 
 
 
