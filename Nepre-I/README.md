@@ -14,37 +14,17 @@ Interfacial residue distance threshold (in_cutoff) value from **4** to **6** and
 options **4, 5,** and **6** angstroms in all cases neighborhood cutoff value are **6** angstroms.
 
 You can see help information by typing:\
-![image](https://user-images.githubusercontent.com/92762541/140528886-4bdebeac-3d7b-4181-a7e0-b9309a0f4e5b.png)
-
-Nepre@liulab:~$python bio_Nepre_I.py -h 
-
-usage: \
-bio_Nepre_I.py  [-h] [-s|-m] [-o]   path cutoff  fb_grid  in_cutoff 
-
-Nepre-I Scoring Function Created by CSRC \
-Positional arguments: 
-  * path		PDB file path of folder path 
-  * cutoff		neighborhood cutoff parameter for Nepre-I 
-  * fb_grid		Fibonacci grid point file 
-  * in_cutoff  interfacial residue cutoff parameter for Nepre-I 
-
-Optional arguments: \
-   -h,  --help  show this help message and exit \
-   -s,  --single  calculate single PDB \
-   -m,  --multi  calculate a series of PDB \
-   -o,  --output  save the results as a text file in running folder 
+![image](https://user-images.githubusercontent.com/92762541/140533023-353f9937-4dff-4b10-9bc9-a5fbd0f09f7c.png)
 
 For single protein potential energy calculate, choose a cutoff (**6** angstrom eg.) and turn on **-s ** flag:
 
 #### Print results to the termial ####
+![image](https://user-images.githubusercontent.com/92762541/140532432-63d8b0d2-3995-41b9-a0f1-6a24700faef1.png)
 
-Nepre@liulab:~$ python bio_Nepre_I.py  -s  ../Example/PDB/native.pdb 6 fibonacci-400-grid-points.txt 6 \
-The calculation results are shown as:
-Nepre Potential Energy \
-Using Cutoff: 6 \
-Examples/PDB/native_rcsb_xleap.pdb [2.0297539] 
+![image](https://user-images.githubusercontent.com/92762541/140530281-0ad2dfcb-82ce-441c-9edc-83007ec18315.png)
+
 #### Save the results in a text file (Same folder with Nepre.py with name “latest_results.txt”) ####
-Nepre@liulab:~$ python bio_Nepre_I.py  -s  -o  ../Example/PDB/native.pdb 6 fibonacci-400-grid-points.txt  6
+![image](https://user-images.githubusercontent.com/92762541/140532018-b2911493-5e99-4296-9f3f-7fcef26fe224.png)
 
 For **multi-object** calculation, you can use **-m** flag:
 #### Print results to the terminal ####
