@@ -8,7 +8,6 @@ fb_grid.txt (fibonacci grid points parameter file)
 where cutoff is a number from 4 to 10, describing the distance threshold for the neighborhood. We provide one cutoff option with cutoff 6 angstrom, previous studies shows 6 angstrom is optimal choice for the calculation.
 You can see help information by typing:
 Nepre@liulab:~$ python bio_Nepre_F.py -h
-
 usage: bio_Nepre_F.py [-h] [-s | -m] [-o] path  cutoff  fb_grid
 Nepre-F Scroing Function Created by CSRC
 positional arguments:
