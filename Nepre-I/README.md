@@ -28,7 +28,7 @@ For single protein potential energy calculate, choose a cutoff (**6** angstrom e
 
 For **multi-object** calculation, you can use **-m** flag:
 #### Print results to the terminal ####
-Nepre@liulab:~$ python bio_Nepre_I.py -m ./Example/PDB 6   fibonacci-400-grid-points.txt  6
+![image](https://user-images.githubusercontent.com/92762541/140534786-998de96a-1103-46ee-aef7-c4d8b08d1d08.png)
 
 The results are:
 The Nepre Potential Energy
