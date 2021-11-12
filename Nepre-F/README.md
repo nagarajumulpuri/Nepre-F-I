@@ -1,4 +1,4 @@
-#### Nepre-F ####
+#### Nepre ####
 Scoring Function based on Neighbourhood Preference Statistics. 
 #### Usage ####
 The running folder should contain: \
