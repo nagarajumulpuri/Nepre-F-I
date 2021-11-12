@@ -1,4 +1,4 @@
-#### Nepre-I ####
+#### iNepre ####
 Scoring Function based on Neighborhood Preference Statistics based on Interfacial residues. 
 
 #### Usage ####  
