@@ -3,11 +3,11 @@
 **Introduction** \
 iNepre is a scoring function for calculating the protein's potential energy using interfacial residues. And it will help to predict the 3D structure of a protein complexes. 
 
-**Nepre** \
+**Nepre** (Folder Nepre-F) \
 Calculate the potential energy using fixed cutoff (Nepre).
 Users can use the neighborhood residue distance cutoff between **4** angstrom and **10** angstroms to calculate the potential energy (distance cutoff=**6**A is recommended).
 
-**iNepre** \
+**iNepre**  (Folder Nepre-I) \
 Calculate the potential energy using fixed cutoff (iNepre).
 Users can use the neighborhood residue distance cutoff between **4** angstrom and **10** angstroms to calculate the potential energy (distance cutoff=**6**A is recommended) and interfacial residue distance cutoff between **4** angstrom and **6** angstrom to define interfacial residues (distance cutoff=**6**A is recommended).
 
