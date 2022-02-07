@@ -22,7 +22,7 @@ The calculation results are shown as:
 
 For multi-object calculation, you can use **-m** flag:
 #### Print results to the terminal ####
-![image](https://user-images.githubusercontent.com/92762541/140543951-6647e487-3ff5-4308-923f-a43ca6b64983.png)
+<img width="947" alt="image" src="https://user-images.githubusercontent.com/92762541/152855216-dba8962a-8ad6-4d48-bdf2-ceff8b23aa6e.png">
 The results are:
 ![image](https://user-images.githubusercontent.com/92762541/140547048-2cb423d4-15a9-428c-9a18-9bc83417d246.png)
 ![image](https://user-images.githubusercontent.com/92762541/140547202-0f9cde14-7e2a-4e69-8af8-08a3414ad458.png)
