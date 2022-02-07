@@ -30,6 +30,7 @@ For **multi-object** calculation, you can use **-m** flag:
 
 The results are:
 <img width="946" alt="image" src="https://user-images.githubusercontent.com/92762541/152836268-a9e2999a-2fba-461f-be9c-64aecc7393bb.png">
+<img width="945" alt="image" src="https://user-images.githubusercontent.com/92762541/152836517-903ad223-b70f-46c6-9e9d-22bb55f8a0ce.png">
 
 
 #### Save the results in a text file (Same folder with Nepre.py with name “latest_results.txt”) ####
