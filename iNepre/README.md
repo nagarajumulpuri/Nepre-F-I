@@ -21,8 +21,6 @@ For single protein potential energy calculate, choose a cutoff (**6** angstrom e
 #### Print results to the termial ####
 ![image](https://user-images.githubusercontent.com/92762541/140532432-63d8b0d2-3995-41b9-a0f1-6a24700faef1.png)
 
-![image](https://user-images.githubusercontent.com/92762541/140530281-0ad2dfcb-82ce-441c-9edc-83007ec18315.png)
-
 #### Save the results in a text file (Same folder with Nepre.py with name “latest_results.txt”) ####
 ![image](https://user-images.githubusercontent.com/92762541/140532018-b2911493-5e99-4296-9f3f-7fcef26fe224.png)
 
