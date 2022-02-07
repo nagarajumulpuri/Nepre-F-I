@@ -29,4 +29,5 @@ The results are:
 
 #### Save the results in a text file (Same folder with Nepre.py with name “latest_results.txt”) ####
 ![image](https://user-images.githubusercontent.com/92762541/140547592-06278181-41b4-47b0-a632-06d6f92514f8.png)
+<img width="943" alt="image" src="https://user-images.githubusercontent.com/92762541/152859461-2264a1cd-a3d8-4096-a969-74be89b9b8f7.png">
 
