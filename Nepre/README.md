@@ -25,8 +25,10 @@ For multi-object calculation, you can use **-m** flag:
 <img width="947" alt="image" src="https://user-images.githubusercontent.com/92762541/152855216-dba8962a-8ad6-4d48-bdf2-ceff8b23aa6e.png">
 The results are: 
 <img width="944" alt="image" src="https://user-images.githubusercontent.com/92762541/152859328-c84db744-033f-4427-bd45-2744d7c7673d.png"><img width="943" alt="image" src="https://user-images.githubusercontent.com/92762541/152859461-2264a1cd-a3d8-4096-a969-74be89b9b8f7.png"> <img width="940" alt="image" src="https://user-images.githubusercontent.com/92762541/152859984-b8e05e7a-4f96-4bca-b2be-5bb609ec2dcc.png">
+Note: Complete list of resutls of PDB1 protein complex was given in Example folder with file name "results_PDB1.txt"
 
 #### Save the results in a text file (Same folder with Nepre.py with name “latest_results.txt”) ####
 <img width="943" alt="image" src="https://user-images.githubusercontent.com/92762541/152860392-2678c032-1fbf-4569-85fa-85a02297ed37.png">
+Note: another protein complex PDB2, Complete list of results of PDB2 protein complex was given in Example folder with file name "results_PDB2.txt"
 
 
