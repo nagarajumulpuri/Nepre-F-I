@@ -23,7 +23,8 @@ The calculation results are shown as:
 For multi-object calculation, you can use **-m** flag:
 #### Print results to the terminal ####
 <img width="947" alt="image" src="https://user-images.githubusercontent.com/92762541/152855216-dba8962a-8ad6-4d48-bdf2-ceff8b23aa6e.png">
-The results are: \
+The results are: 
+<img width="944" alt="image" src="https://user-images.githubusercontent.com/92762541/152859328-c84db744-033f-4427-bd45-2744d7c7673d.png">
 
 
 #### Save the results in a text file (Same folder with Nepre.py with name “latest_results.txt”) ####
