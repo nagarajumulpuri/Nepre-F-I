@@ -42,6 +42,6 @@ Note: Complete list of resutls of PDB1 protein complex was given in Example fold
 #### Save the results in a text file (Same folder with Nepre.py with name “latest_results.txt”) ####
 <img width="945" alt="image" src="https://user-images.githubusercontent.com/92762541/152840037-7f16049f-6a91-4efd-b7c7-6e469359f89e.png">
 
-
+Note: Another another protein complex PDB2, Complete list of results of PDB2 protein complex was given in Example folder with file name "results_PDB2.txt"
 
 
