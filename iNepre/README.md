@@ -28,6 +28,7 @@ For single protein potential energy calculate, choose a cutoff (**6** angstrom e
 
 For **multi-object** calculation, you can use **-m** flag:
 #### Print results to the terminal ####
+<img width="800" alt="image" src="https://user-images.githubusercontent.com/92762541/152829715-351ddbaa-ef73-44d0-ace2-ee28344e8959.png">
 ![image](https://user-images.githubusercontent.com/92762541/140534786-998de96a-1103-46ee-aef7-c4d8b08d1d08.png)
 
 The results are:
