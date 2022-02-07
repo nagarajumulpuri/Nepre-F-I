@@ -37,7 +37,8 @@ The results are:
 Note: Complete list of resutls of PDB1 protein complex was given in Example folder with file name "results_PDB1.txt"
 
 #### Save the results in a text file (Same folder with Nepre.py with name “latest_results.txt”) ####
-![image](https://user-images.githubusercontent.com/92762541/140536484-891f8d3b-2950-42a6-87c2-8c8c4b72d37a.png)
+<img width="945" alt="image" src="https://user-images.githubusercontent.com/92762541/152840037-7f16049f-6a91-4efd-b7c7-6e469359f89e.png">
+
 
 
 
