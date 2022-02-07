@@ -25,9 +25,9 @@ For multi-object calculation, you can use **-m** flag:
 <img width="947" alt="image" src="https://user-images.githubusercontent.com/92762541/152855216-dba8962a-8ad6-4d48-bdf2-ceff8b23aa6e.png">
 The results are: 
 <img width="944" alt="image" src="https://user-images.githubusercontent.com/92762541/152859328-c84db744-033f-4427-bd45-2744d7c7673d.png">
-
+<img width="943" alt="image" src="https://user-images.githubusercontent.com/92762541/152859461-2264a1cd-a3d8-4096-a969-74be89b9b8f7.png">
 
 #### Save the results in a text file (Same folder with Nepre.py with name “latest_results.txt”) ####
 ![image](https://user-images.githubusercontent.com/92762541/140547592-06278181-41b4-47b0-a632-06d6f92514f8.png)
-<img width="943" alt="image" src="https://user-images.githubusercontent.com/92762541/152859461-2264a1cd-a3d8-4096-a969-74be89b9b8f7.png">
+
 
