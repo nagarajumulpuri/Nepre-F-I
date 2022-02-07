@@ -27,6 +27,6 @@ The results are:
 <img width="944" alt="image" src="https://user-images.githubusercontent.com/92762541/152859328-c84db744-033f-4427-bd45-2744d7c7673d.png"><img width="943" alt="image" src="https://user-images.githubusercontent.com/92762541/152859461-2264a1cd-a3d8-4096-a969-74be89b9b8f7.png"> <img width="940" alt="image" src="https://user-images.githubusercontent.com/92762541/152859984-b8e05e7a-4f96-4bca-b2be-5bb609ec2dcc.png">
 
 #### Save the results in a text file (Same folder with Nepre.py with name “latest_results.txt”) ####
-![image](https://user-images.githubusercontent.com/92762541/140547592-06278181-41b4-47b0-a632-06d6f92514f8.png)
+<img width="943" alt="image" src="https://user-images.githubusercontent.com/92762541/152860392-2678c032-1fbf-4569-85fa-85a02297ed37.png">
 
 
