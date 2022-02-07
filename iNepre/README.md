@@ -32,7 +32,7 @@ The results are:
 <img width="946" alt="image" src="https://user-images.githubusercontent.com/92762541/152836268-a9e2999a-2fba-461f-be9c-64aecc7393bb.png">
 <img width="945" alt="image" src="https://user-images.githubusercontent.com/92762541/152836517-903ad223-b70f-46c6-9e9d-22bb55f8a0ce.png">
 <img width="943" alt="image" src="https://user-images.githubusercontent.com/92762541/152836711-afaa01ef-8e32-4d79-a7d2-dfebb22c995b.png">
-<img width="943" alt="image" src="https://user-images.githubusercontent.com/92762541/152836957-85df515e-7656-4e5f-92df-2ed9df37b38f.png">
+<img width="943" alt="image" src="https://user-images.githubusercontent.com/92762541/152836957-85df515e-7656-4e5f-92df-2ed9df37b38f.png"> \
 Note: Complete list of resutls of PDB1 protein complex was given in Example folder with file name "results_PDB1.txt"
 
 #### Save the results in a text file (Same folder with Nepre.py with name “latest_results.txt”) ####
