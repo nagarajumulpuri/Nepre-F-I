@@ -19,11 +19,11 @@ You can see help information by typing:\
 For single protein potential energy calculate, choose a cutoff (**6** angstrom eg.) and turn on **-s ** flag:
 
 #### Print results to the termial ####
-![image](https://user-images.githubusercontent.com/92762541/140532432-63d8b0d2-3995-41b9-a0f1-6a24700faef1.png)
 <img width="941" alt="image" src="https://user-images.githubusercontent.com/92762541/152838578-600629da-e468-4d92-80b6-75300f25acb0.png">
 
 #### Save the results in a text file (Same folder with Nepre.py with name “latest_results.txt”) ####
-![image](https://user-images.githubusercontent.com/92762541/140532018-b2911493-5e99-4296-9f3f-7fcef26fe224.png)
+<img width="942" alt="image" src="https://user-images.githubusercontent.com/92762541/152838980-e140e1d2-aa3f-48a9-808a-a91b1293bf47.png">
+
 
 For **multi-object** calculation, you can use **-m** flag:
 #### Print results to the terminal ####
