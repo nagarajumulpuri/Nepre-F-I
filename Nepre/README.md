@@ -13,7 +13,7 @@ You can see help information by typing:
 For single protein potential energy calculate, choose a cutoff (6 angstrom e.g) and turn on **-s** flag:
 #### Print results to the terminal ####
 ![image](https://user-images.githubusercontent.com/92762541/140543143-e5a166d4-d4af-4619-b558-9f27d708ff97.png)
-<img width="944" alt="image" src="https://user-images.githubusercontent.com/92762541/152854143-b4e5d7ba-e6e6-48fb-9303-c25f447c58f9.png">
+
 
 The calculation results are shown as:
 ![image](https://user-images.githubusercontent.com/92762541/140543268-61894b1e-3ad9-41a6-991e-ec1d6d8600e7.png)
