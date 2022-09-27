@@ -16,7 +16,7 @@ The Nepre/iNepre is implemented with Python 3.7.3 and the installation is straig
 
 The required package is **numpy** and **biopython.**
 
-The usage for Nepre/iNepre can be found in the corresponding folders (Cutoff).
+The usage for Nepre/iNepre can be found in the corresponding folders.
 
 **CopyRight** \
 Nepre/iNepre is created by LiuLab of Beijing Computation Science Research Center (CSRC).
