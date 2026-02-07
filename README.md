@@ -24,3 +24,6 @@ Nepre/iNepre is created by LiuLab of Beijing Computation Science Research Center
 **Contact Us** \
 Email: nepre2018@163.com \
 Address: Building 9, East Zone, ZPark II, No.10 East Xibeiwang Road, Haidian District, Beijing 100193, China.
+
+**Reference** \
+A scoring function for the prediction of protein complex interfaces based on the neighborhood preferences of amino acids, M. Nagaraju and H. Liu, Acta Cryst. (2023). D79, 31-39, https://doi.org/10.1107/S2059798322011858
